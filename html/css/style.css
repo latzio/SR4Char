@@ -1,0 +1,61 @@
+* {
+
+}
+
+body {
+  background: #AAA;
+  font-family: "Lucida Console", monospace;
+  font-size: 0.75em;
+}
+
+div {
+  margin: 0px;
+  padding: 4px;
+}
+
+p {
+  margin: 0px;
+  padding: 2px;
+}
+
+h2 {
+  margin: 0px;
+  padding 4px;
+}
+
+input {
+  margin: 0px;
+  padding: 0px;
+  border: 0px solid #222;
+  background: #474;
+  text-align: right;
+  width: 10%;
+  float: right;
+  font-family: monospace;
+}
+
+#container {
+  width: 400px;
+  margin: 0 auto;
+  background: #EEE;
+}
+
+.header {
+  background: #242;
+  border: 1px solid #222;
+  font-weight: bold;
+  color: #EE8;
+}
+
+.section {
+  background: #474;
+  margin: 2px;
+  border: 1px solid #222;
+}
+
+.data {
+}
+
+.hidden {
+  display: none;
+}
